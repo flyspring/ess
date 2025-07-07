@@ -1,5 +1,5 @@
 {
-    "name": "tencentcloud/ess",
+    "name": "flyspringTencentCloud/ess",
     "description": "TencentCloudApi php sdk ess",
     "type": "library",
     "homepage": "https://github.com/tencentcloud-sdk-php/ess",
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "tencentcloud/common": "3.0.1414"
+        "flyspringTencentCloud/common": "3.0.1414"
     },
     "autoload": {
         "psr-4": {
