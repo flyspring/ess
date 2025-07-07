@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "flyspringTencentCloud/common": "3.0.1414"
+        "flyspring-tencent-cloud/common": "3.0.1414"
     },
     "autoload": {
         "psr-4": {
