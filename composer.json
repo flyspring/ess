@@ -8,7 +8,7 @@
         {
             "name": "tencentcloudapi",
             "email": "tencentcloudapi@tencent.com",
-            "homepage": "https://github.com/tencentcloud-sdk-php/ess",
+            "homepage": "https://github.com/flyspring/ess",
             "role": "Developer"
         }
     ],
