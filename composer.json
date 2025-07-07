@@ -1,5 +1,5 @@
 {
-    "name": "flyspringTencentCloud/ess",
+    "name": "flyspring-tencent-cloud/ess",
     "description": "TencentCloudApi php sdk ess",
     "type": "library",
     "homepage": "https://github.com/tencentcloud-sdk-php/ess",
